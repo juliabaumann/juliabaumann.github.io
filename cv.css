@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+p, li {
+    font-size: 13px;
+}
+
+.cv {
+    margin: 25px 50px;
+    font-family: Helvetica;
+}
+
+.banner {
+    height: 250px;
+    background-color: #466995;
+    color: white;    
+    padding: 30px;
+}
+
+.contact {
+    font-size: 15px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.formation {
+    background-color:rgb(212, 248, 163);
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 2.5px;
+}
+
+.exp_pro {
+    background-color: rgb(240, 157, 157);
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 2.5px;
+}
+
+.comp {
+    background-color:rgb(221, 247, 184);
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 2.5px;
+}
+
+.interets {
+    background-color: rgb(240, 181, 181);
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 2.5px;
+}
+
+#status {
+    font-size: 20px;
+}
